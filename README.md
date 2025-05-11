@@ -9,6 +9,9 @@
   
   ![GitHub followers](https://img.shields.io/github/followers/sabyasachiGorai?style=social)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabyasachi-gorai/)](https://www.linkedin.com/in/sabyasachi-gorai-395b51293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  <a href="mailto:icis.sabyasachi@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <!--
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://sabyasachigorai.github.io)
 -->
@@ -44,7 +47,7 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align="center" style="display:flex">
   <img src="https://github-readme-stats.vercel.app/api?username=sabyasachiGorai&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabyasachiGorai&layout=compact&theme=radical" alt="Top Languages" height="170"/>
 </div>
@@ -53,34 +56,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabyasachiGorai&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/sabyasachiGorai/Task-Manager-in-Console">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabyasachiGorai&repo=react-portfolio&theme=radical" />
-  </a>
-  <!--
-  <a href="https://github.com/sabyasachiGorai/weather-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabyasachiGorai&repo=weather-app&theme=radical" />
-  </a>
-  -->
-</div>
 
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="mailto:icis.sabyasachi@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sabyasachi-gorai-395b51293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <!--
-  <a href="https://twitter.com/sabyasachiGorai">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  -->
-</div>
 
 <div align="center">
   <h3>✨ Thanks for visiting! ✨</h3>
