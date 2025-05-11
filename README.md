@@ -1,4 +1,7 @@
-# <div align="center">👋 Hello, I'm Sabyasachi Gorai</div>
+# <div align="center"><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=750&lines=Hi+I'm+Sabyasachi+Goari!;Aspiring+Full-Stack+Developer+%26+DevOps+Learner;Consistency+is+my+superpower+💪;Welcome+to+my+GitHub+profile!+🚀" alt="Typing SVG" />
+</p>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sabyasachiGorai/sabyasachiGorai/main/assets/header-banner.svg" alt="banner" />
@@ -84,8 +87,12 @@
   <h3>✨ Thanks for visiting! ✨</h3>
   
   ![Visitor Count](https://profile-counter.glitch.me/sabyasachiGorai/count.svg)
-  
-  <img src="https://raw.githubusercontent.com/sabyasachiGorai/sabyasachiGorai/main/assets/footer-wave.svg" width="100%" alt="Wave">
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+
 </div>
 
 <!--
