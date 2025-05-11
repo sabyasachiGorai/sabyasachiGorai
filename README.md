@@ -1,6 +1,4 @@
-# <div align="center"><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=750&lines=👋Hi+I'm+Sabyasachi+Goari!;" alt="Typing SVG" />
-</p>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=750&lines=👋Hi+I'm+Sabyasachi+Goari!;" alt="Typing SVG" />
 </div>
 
 <div align="center">
