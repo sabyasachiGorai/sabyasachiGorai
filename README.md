@@ -11,8 +11,6 @@
   [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:icis.sabyasachi@gmail.com)
 </div>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/sabyasachiGorai/sabyasachiGorai/main/assets/coding.gif"/>
-
 ## 💫 About Me
 
 - 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**
