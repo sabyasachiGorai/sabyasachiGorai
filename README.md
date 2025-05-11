@@ -8,9 +8,10 @@
 <div align="center">
   
   ![GitHub followers](https://img.shields.io/github/followers/sabyasachiGorai?style=social)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabyasachi-gorai/)](https://www.linkedin.com/in/sabyasachi-gorai/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabyasachi-gorai/)](https://www.linkedin.com/in/sabyasachi-gorai-395b51293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  <!--
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://sabyasachigorai.github.io)
-
+-->
 </div>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/sabyasachiGorai/sabyasachiGorai/main/assets/coding.gif"/>
