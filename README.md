@@ -5,15 +5,7 @@
   <h3>💻 BCA Student | 🌐 React Developer | 🚀 Web Enthusiast</h3>
 </div>
 
-<div align="center" style="display:flex">
-
-  ![GitHub followers](https://img.shields.io/github/followers/sabyasachiGorai?style=social)
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabyasachi-gorai/)](https://www.linkedin.com/in/sabyasachi-gorai-395b51293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-  
-  [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:icis.sabyasachi@gmail.com)
-
-</div>
+  ![GitHub followers](https://img.shields.io/github/followers/sabyasachiGorai?style=social)[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabyasachi-gorai/)](https://www.linkedin.com/in/sabyasachi-gorai-395b51293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:icis.sabyasachi@gmail.com)
 
 
 <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/sabyasachiGorai/sabyasachiGorai/main/assets/coding.gif"/>
@@ -24,7 +16,6 @@
 - 💡 Passionate about creating responsive web applications
 - ⚡ Focusing on **React** and frontend development
 - 🌱 Continuously expanding my knowledge of modern web technologies
-- 🔭 Working on building my portfolio with impressive projects
 - 🤝 Open to collaborations and new opportunities
 
 ## 🛠️ Tech Stack
@@ -46,7 +37,7 @@
 
 ## 📈 GitHub Stats
 
-<div align="center" style="display:flex">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabyasachiGorai&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabyasachiGorai&layout=compact&theme=radical" alt="Top Languages" height="170"/>
 </div>
@@ -54,6 +45,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabyasachiGorai&theme=radical" alt="GitHub Streak" />
 </div>
+
 
 
 
