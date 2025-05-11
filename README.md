@@ -1,4 +1,4 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=750&lines=👋Hi+I'm+Sabyasachi+Goari!;" alt="Typing SVG" />
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=750&lines=👋Hi+I'm+Sabyasachi+Gorai!;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -55,26 +55,30 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/sabyasachiGorai/react-portfolio">
+  <a href="https://github.com/sabyasachiGorai/Task-Manager-in-Console">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabyasachiGorai&repo=react-portfolio&theme=radical" />
   </a>
+  <!--
   <a href="https://github.com/sabyasachiGorai/weather-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabyasachiGorai&repo=weather-app&theme=radical" />
   </a>
+  -->
 </div>
 
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="mailto:sabyasachigorai@gmail.com">
+  <a href="mailto:icis.sabyasachi@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sabyasachi-gorai/">
+  <a href="https://www.linkedin.com/in/sabyasachi-gorai-395b51293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <!--
   <a href="https://twitter.com/sabyasachiGorai">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  -->
 </div>
 
 <div align="center">
@@ -89,9 +93,3 @@
 
 </div>
 
-<!--
-**Note:** To make this README even more impressive, you'll need to:
-1. Create a `assets` folder in your GitHub repository
-2. Add the relevant SVG/GIF files mentioned above to that folder
-3. Update your profile with additional information as you progress
--->
