@@ -1,10 +1,6 @@
 # <div align="center"><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=750&lines=Hi+I'm+Sabyasachi+Goari!;Aspiring+Full-Stack+Developer+%26+DevOps+Learner;Consistency+is+my+superpower+💪;Welcome+to+my+GitHub+profile!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=750&lines=👋Hi+I'm+Sabyasachi+Goari!;" alt="Typing SVG" />
 </p>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sabyasachiGorai/sabyasachiGorai/main/assets/header-banner.svg" alt="banner" />
 </div>
 
 <div align="center">
