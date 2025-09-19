@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 
-- 🎓 Currently pursuing **Master's of Computer Applications (MCA)**
+- 🎓 Currently pursuing **Master's of Computer Applications (MCA)** from Delhi University
 - 💡 Passionate about creating responsive web applications
 - ⚡ Focusing on **React** and frontend development
 - 🌱 Continuously expanding my knowledge of modern web technologies
