@@ -2,7 +2,7 @@
 </div>
 
 <div align="center">
-  <h3>💻 BCA Student | 🌐 React Developer | 🚀 Web Enthusiast</h3>
+  <h3>💻 MCA Student | 🚀 Web Enthusiast</h3>
 </div>
 <div align="center">
 
