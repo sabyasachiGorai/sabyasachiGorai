@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 
-- 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**
+- 🎓 Currently pursuing **Master's of Computer Applications (MCA)**
 - 💡 Passionate about creating responsive web applications
 - ⚡ Focusing on **React** and frontend development
 - 🌱 Continuously expanding my knowledge of modern web technologies
