@@ -59,31 +59,12 @@
 
 <table>
   <tr>
-    <th colspan="2" align="left">&nbsp;Technologies</th>
+    <th align="left">&nbsp;Technologies</th>
   </tr>
   <tr>
-    <td><b>&nbsp;Languages&nbsp;</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,bash&theme=dark" alt="Languages" /></td>
-  </tr>
-  <tr>
-    <td><b>&nbsp;Frontend&nbsp;</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td><b>&nbsp;Backend&nbsp;</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" alt="Backend" /></td>
-  </tr>
-  <tr>
-    <td><b>&nbsp;Databases&nbsp;</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,supabase&theme=dark" alt="Databases" /></td>
-  </tr>
-  <tr>
-    <td><b>&nbsp;Cloud &amp; DevOps&nbsp;</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,vercel&theme=dark" alt="Cloud and DevOps" /></td>
-  </tr>
-  <tr>
-    <td><b>&nbsp;Tools&nbsp;</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,vscode,vim,postman,npm,pnpm,notion,androidstudio,ubuntu&theme=dark" alt="Tools" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vite,html,css,js,ts,react,tailwind,nodejs,express,prisma,mongodb,postgres,redis,firebase,supabase,aws,gcp,nginx,docker,postman,npm,pnpm,vscode,vim,notion,androidstudio,ubuntu,bash,py,java,cpp,c,git,vercel&theme=dark&perline=12" alt="Technologies" />
+    </td>
   </tr>
 </table>
 
@@ -115,15 +96,11 @@
 
 <br/>
 
-## 🐍 Contribution Graph
+## 🧊 Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabyasachiGorai/sabyasachiGorai/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabyasachiGorai/sabyasachiGorai/output/github-snake.svg" />
-  <img alt="Contribution snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/sabyasachiGorai/sabyasachiGorai/output/github-snake.svg" width="100%" />
-</picture>
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D view of my GitHub contribution graph" width="100%" />
 
 </div>
 
