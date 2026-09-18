@@ -6,6 +6,10 @@ on:
     - cron: "0 0 * * *"
   # Lets you run it manually from the Actions tab
   workflow_dispatch:
+  # Runs once automatically when this workflow file is added or edited (first run)
+  push:
+    paths:
+      - ".github/workflows/**"
 
 permissions:
   contents: write
