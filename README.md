@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C2CB,100:5AD7FF&height=200&section=header&text=Sabyasachi%20Gorai&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=MCA%20Student%20and%20Web%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2CB&center=true&vCenter=true&width=750&lines=👋+Hi+I'm+Sabyasachi+Gorai!;💻+MCA+Student+@+Delhi+University;🚀+Building+responsive+web+apps+with+React;🌱+Always+learning+always+shipping" alt="Typing SVG" />
+<img src="./typing.svg" alt="Typing animation: Hi I'm Sabyasachi Gorai" width="750" />
 
 <br/><br/>
 
