@@ -9,7 +9,7 @@
 <a href="https://github.com/sabyasachiGorai?tab=followers"><img src="https://img.shields.io/github/followers/sabyasachiGorai?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00C2CB" alt="GitHub followers" /></a>
 <a href="https://www.linkedin.com/in/sabyasachi-gorai-395b51293"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
 <a href="mailto:icis.sabyasachi@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
-<a href="https://sabyasachi.site"><img src="https://img.shields.io/badge/Portfolio-sabyasachi.site-00C2CB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+<a href="https://sabyasachigorai.github.io/portfolio2.0/"><img src="https://img.shields.io/badge/Portfolio-sabyasachi-00C2CB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
 <img src="https://komarev.com/ghpvc/?username=sabyasachiGorai&label=Profile%20Views&style=for-the-badge&color=00C2CB&labelColor=0D1117" alt="Profile views" />
 
 </div>
@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td><b>&nbsp;🌐 Portfolio&nbsp;</b></td>
-    <td>&nbsp;<a href="https://sabyasachi.site">sabyasachi.site</a>&nbsp;</td>
+    <td>&nbsp;<a href="https://sabyasachigorai.github.io/portfolio2.0/">sabyasachi</a>&nbsp;</td>
   </tr>
   <tr>
     <td><b>&nbsp;💬 Ask me about&nbsp;</b></td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=vite,html,css,js,ts,react,tailwind,nodejs,express,prisma,mongodb,postgres,redis,firebase,supabase,aws,gcp,nginx,docker,postman,npm,pnpm,vscode,vim,notion,androidstudio,ubuntu,bash,py,java,cpp,c,git,vercel&theme=dark&perline=12" alt="Technologies" />
+      <img src="https://skillicons.dev/icons?i=vite,html,css,js,ts,react,tailwind,nodejs,express,mongodb,postgres,redis,firebase,supabase,nginx,postman,npm,pnpm,vscode,vim,notion,ubuntu,bash,py,cpp,c,git,vercel&theme=dark&perline=12" alt="Technologies" />
     </td>
   </tr>
 </table>
