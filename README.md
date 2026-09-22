@@ -96,13 +96,23 @@
 
 <br/>
 
-## 🧊 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D view of my GitHub contribution graph" width="100%" />
+<img src="https://raw.githubusercontent.com/sabyasachiGorai/sabyasachiGorai/output/github-snake-dark.svg"
+     alt="GitHub Contribution Snake"
+     width="100%" />
 
 </div>
+
+## 🧊 Contribution Graph
+</div>
+<!-- <div align="center"> -->
+
+<!-- <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D view of my GitHub contribution graph" width="100%" /> -->
+
+<!-- </div> -->
 
 <br/>
 
