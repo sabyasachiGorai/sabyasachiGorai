@@ -26,9 +26,8 @@
 
 <br/>
 
-## 🚀 Currently
 
-<div align="center">
+<!-- <div align="center">
 
 <table>
   <tr>
@@ -51,7 +50,7 @@
 
 </div>
 
-<br/>
+<br/> -->
 
 ## 🛠️ Technologies
 
