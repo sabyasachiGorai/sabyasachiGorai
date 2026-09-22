@@ -55,17 +55,7 @@
 ## 🛠️ Technologies
 
 <div align="center">
-
-<table>
-  <tr>
-    <th align="left">&nbsp;Technologies</th>
-  </tr>
-  <tr>
-    <td>
       <img src="https://skillicons.dev/icons?i=vite,html,css,js,ts,react,tailwind,nodejs,express,mongodb,postgres,redis,firebase,supabase,nginx,postman,npm,pnpm,vscode,vim,notion,ubuntu,bash,py,cpp,c,git,vercel&theme=dark&perline=12" alt="Technologies" />
-    </td>
-  </tr>
-</table>
 
 </div>
 
