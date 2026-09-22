@@ -96,7 +96,6 @@
 
 <br/>
 
-## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -106,7 +105,7 @@
 
 </div>
 
-## 🧊 Contribution Graph
+
 </div>
 <!-- <div align="center"> -->
 
