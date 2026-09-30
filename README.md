@@ -4,7 +4,9 @@
 
 <img src="./typing.svg" alt="Typing animation: Hi I'm Sabyasachi Gorai" width="750" />
 
-<br/><br/>
+<br/>
+<br/>
+
 
 <a href="https://github.com/sabyasachiGorai?tab=followers"><img src="https://img.shields.io/github/followers/sabyasachiGorai?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00C2CB" alt="GitHub followers" /></a>
 <a href="https://www.linkedin.com/in/sabyasachi-gorai-395b51293"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
