@@ -66,24 +66,11 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com/?user=sabyasachiGorai&theme=dark&background=1F2229&border=FFFFFF&ring=5AD7FF&fire=5AD7FF&currStreakNum=5AD7FF&sideNums=5AD7FF&currStreakLabel=5AD7FF&sideLabels=5AD7FF&dates=FFFFFF&stroke=343A44&border_radius=14" alt="GitHub Streak" height="190" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sabyasachiGorai&layout=compact&langs_count=8&title_color=5AD7FF&text_color=FFFFFF&bg_color=1F2229&border_color=FFFFFF&border_radius=14" alt="Most Used Languages" height="190" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=sabyasachiGorai&show_icons=true&title_color=5AD7FF&icon_color=00C2CB&text_color=FFFFFF&bg_color=1F2229&border_color=FFFFFF&border_radius=14" alt="GitHub Stats" height="190" />
-    </td>
-  </tr>
-</table>
-
+  <img src="https://streak-stats.demolab.com/?user=sabyasachiGorai&theme=dark&background=1F2229&border=FFFFFF&ring=5AD7FF&fire=5AD7FF&currStreakNum=5AD7FF&sideNums=5AD7FF&currStreakLabel=5AD7FF&sideLabels=5AD7FF&dates=FFFFFF&stroke=343A44&border_radius=14" alt="GitHub Streak" height="190" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sabyasachiGorai&layout=compact&langs_count=8&title_color=5AD7FF&text_color=FFFFFF&bg_color=1F2229&border_color=FFFFFF&border_radius=14" alt="Most Used Languages" height="190" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sabyasachiGorai&show_icons=true&title_color=5AD7FF&icon_color=00C2CB&text_color=FFFFFF&bg_color=1F2229&border_color=FFFFFF&border_radius=14" alt="GitHub Stats" height="190" />
 </div>
+
 
 <br/>
 
